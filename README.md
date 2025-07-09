@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @ishanfullstackdev
-- 👀 I’m interested in learning and implementing new technologies
-- 🌱 I’m currently learning blockchain dvelopment and related eco system
-- 💞️ I’m looking to work on some exciting and useful projects
-- 📫 Drop me a message here to contact me
+# 👋 Hi, I'm Ishan Srivastava
 
-<!---
-ishanfullstackdev/ishanfullstackdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate **Full-Stack Developer** and **Programming Educator** who loves writing clean, efficient code and helping others learn to code through practical, project-based tutorials.
+
+🔧 **Tech Stack**:  
+- 💻 HTML, CSS, Tailwind CSS, JavaScript (ES6+), Bootstrap  
+- ⚛️ React.js, Node.js, Express.js  
+- 🗄️ MongoDB, Firebase, REST APIs  
+- 🛠️ Git, GitHub, CLI, Postman  
+
+🎯 **What I Do**:  
+- Build responsive and interactive web apps  
+- Teach coding on YouTube @ Billion Dollar Tutorial  
+- Create beginner-friendly and real-world project-based courses  
+- Open to freelance and collaboration opportunities  
+
+🚀 **Current Focus**:  
+- Frontend Development with Tailwind & JavaScript  
+- Building coding challenges and interactive learning modules  
+- Contributing to open-source and creating educational content  
+
+📂 **Featured Projects**:  
+- 🔗 [Quiz App (Tailwind + JS)](https://github.com/ishanfullstackdev/quiz-app)  
+- 🔗 [Portfolio Website](https://github.com/ishanfullstackdev/portfolio)  
+- 🔗 [Iframe Messaging Module](https://github.com/ishanfullstackdev/iframe-messaging)  
+
+📫 **Let’s Connect**:  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ishanfullstackdev)  
+- 🌐 [Portfolio Website](https://your-portfolio-site.com) *(replace with real link)*  
+- 📧 Email: ishanfullstackdev@gmail.com
+
+---
+
+_“Code is more than syntax — it's creativity, logic, and solving real-world problems.”_  
