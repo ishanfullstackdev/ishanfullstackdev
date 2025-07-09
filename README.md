@@ -22,12 +22,12 @@ I'm a passionate **Full-Stack Developer** and **Programming Educator** who loves
 📂 **Featured Projects**:  
 - 🔗 [Quiz App (Tailwind + JS)](https://github.com/ishanfullstackdev/quiz-app)  
 - 🔗 [Portfolio Website](https://github.com/ishanfullstackdev/portfolio)  
-- 🔗 [Iframe Messaging Module](https://github.com/ishanfullstackdev/iframe-messaging)  
+
 
 📫 **Let’s Connect**:  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ishanfullstackdev)  
-- 🌐 [Portfolio Website](https://your-portfolio-site.com) *(replace with real link)*  
-- 📧 Email: ishanfullstackdev@gmail.com
+- 🌐 [Portfolio Website] 
+- 📧 Email: fullstackdev.freelance@gmail.com
 
 ---
 
